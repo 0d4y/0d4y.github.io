@@ -1,2 +1,2 @@
 # 0d4y's Page
-[NoScript vulnerable checker](https://0d4y.github.io)
+[NoScript vulnerable checker](https://0d4y.github.io/yesscript.html)
